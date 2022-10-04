@@ -7,7 +7,9 @@ public class HolaMundo {
 		System.out.println("Hola Mundo");
 			
 		String name="Manuel";
-		System.out.println("Bienvenidos al curso, " + name);
+		System.out.println("Bienvenidos al curso, soy " + name);
+		
+		System.out.println("Hoy es marter");
 
 	}
 

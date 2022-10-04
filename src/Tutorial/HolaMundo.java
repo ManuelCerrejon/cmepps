@@ -6,8 +6,9 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 			
-		String name="Manuel";
-		System.out.println("Bienvenidos al curso, " + name);
+		String name="Raul";
+		System.out.println("Bienvenidos al curso, soy" + name);
+		System.out.println("Universidad de Huelva");
 
 	}
 
